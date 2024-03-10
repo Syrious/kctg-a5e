@@ -28,7 +28,7 @@
   "packs": [
     {
       "name": "kctg-a5e",
-      "label": "DnD5e - KCTG",
+      "label": "A5e - KCTG",
       "path": "packs/kctg-a5e",
       "type": "Item",
       "system": "a5e",
