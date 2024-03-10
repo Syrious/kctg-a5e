@@ -1,0 +1,38 @@
+{
+  "id": "kctg-a5e",
+  "title": "Kris's Compendium of Trade Goods - A5e edition",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "This is the A5e port if Kris's Compendium of Trade Goods",
+  "authors": [
+    {
+      "name": "Syrious",
+      "url": "https://github.com/Syrious",
+      "discord": "syrious_"
+    }
+  ],
+  "packs": [
+    {
+      "name": "kctg-a5e",
+      "label": "DnD5e - KCTG",
+      "path": "packs/kctg-a5e",
+      "type": "Item",
+      "system": "a5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "kctg-5e",
+        "type": "module"
+      }
+    ]
+  }
+}
