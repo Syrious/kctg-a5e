@@ -1,10 +1,10 @@
 {
   "id": "kctg-a5e",
   "title": "Kris's Compendium of Trade Goods - A5e edition",
-  "version": "1.0.2",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "description": "This is the A5e port if Kris's Compendium of Trade Goods",
   "authors": [
