@@ -10,6 +10,18 @@ const convertPrice = (json) => {
     }
 }
 
+const convertWeight = (json) => {
+    for (let key in json) {
+        if (json.hasOwnProperty(key)) {
+            if (key === 'weight' && typeof json[key] === 'object') {
+                json[key] = json[key].value;
+            } else if (typeof json[key] === 'object') {
+                convertWeight(json[key]);
+            }
+        }
+    }
+}
+
 const inputElement = document.getElementById("jsonFile");
 inputElement.addEventListener("change", handleFiles, false);
 
@@ -43,6 +55,7 @@ function convert(input) {
     replaceSystem(input)
     convertItems(input)
     convertPrice(input);
+    convertWeight(input);
 }
 
 function handleFiles() {
