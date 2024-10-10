@@ -8,8 +8,9 @@ export class Notes extends Application {
             id: "notes",
             title: "Thank you for downloading",
             template: "modules/kctg-a5e/templates/notes.html",
-            width: 800,
-            height: 550
+            width: 700,
+            height: 500,
+            classes:[ "kctg"]
         });
     }
 
