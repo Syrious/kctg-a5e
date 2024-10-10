@@ -6,51 +6,51 @@
     background: none;
 }
 
-.container {
+.kctg-container {
     background-color: rgba(0, 0, 0, 0.8);
     border: 3px solid #4a7023;
     padding: 20px;
     border-radius: 10px;
 }
 
-.container p, .container table, .container a, .container footer {
+.kctg-container p, .kctg-container table, .kctg-container a, .kctg-container footer {
     font-family: 'Cinzel', serif;
     color: #ffffff;
 }
 
-.container a {
+.kctg-container a {
     color: #7bc037;
     background-color: transparent;
     text-decoration: none;
 }
 
-.container table {
+.kctg-container table {
     width: 100%;
     margin-top: 20px;
     border-collapse: collapse;
     text-shadow: 2px 2px #000000;
 }
 
-.container th, .container td {
+.kctg-container th, .kctg-container td {
     border: 2px solid #4a7023;
     padding: 10px;
 }
 
-.container th {
+.kctg-container th {
     background-color: #8b4513;
 }
 
-.container td {
+.kctg-container td {
     background-color: #4b2e1e;
 }
 
-footer {
+.kctg-container footer {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
 }
 
-button {
+.kctg-container button {
     background-color: #8b4513;
     border: none;
     padding: 10px 20px;
@@ -60,6 +60,6 @@ button {
     color: #ffffff;
 }
 
-button:hover {
+.kctg-container button:hover {
     background-color: #4a7023;
 }
