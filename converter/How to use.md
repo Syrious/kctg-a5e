@@ -1,3 +1,4 @@
+# THIS IS DEPRECATED!
 * Activate Module Mana's Compendium Importer
 * Export kcgt-dnd5e
 * Open script/converter.html
