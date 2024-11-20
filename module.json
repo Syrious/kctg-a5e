@@ -1,7 +1,7 @@
 {
   "id": "kctg-a5e",
   "title": "Kris's Compendium of Trade Goods - A5e edition",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -36,6 +36,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
+	  "banner": "modules/kctg-5e/banner/Banner.webp",
       "flags": {}
     }
   ],
@@ -48,6 +49,12 @@
       }
     ]
   },
+  "media": [
+    {
+      "type": "setup",
+      "caption": "Kris's Compendium of Trade Goods",
+      "thumbnail": "modules/kctg-5e/banner/Thumb.webp"
+    }],
   "esmodules": [
     "kctg-a5e.js"
   ],
