@@ -1,7 +1,7 @@
 {
   "id": "kctg-a5e",
   "title": "Kris's Compendium of Trade Goods - A5e edition",
-  "version": "1.15.2",
+  "version": "1.16.2",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -36,7 +36,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-	  "banner": "modules/kctg-5e/banner/Banner.webp",
+      "banner": "modules/kctg-5e/banner/Banner.webp",
       "flags": {}
     }
   ],
@@ -63,7 +63,8 @@
   "styles": [
     "styles/main.css"
   ],
-  "url": "https://github.com/Syrious/kctg-a5e",
-  "manifest": "https://github.com/Syrious/kctg-a5e/releases/latest/download/module.json",
-  "download": "https://github.com/Syrious/kctg-a5e/releases/download/1.6.0/module.zip"
+  "bugs": "https://discord.gg/VMqndcyUGS",
+  "url": "${module-url}",
+  "manifest": "${module-endpoint}",
+  "download": "${download-endpoint}"
 }
