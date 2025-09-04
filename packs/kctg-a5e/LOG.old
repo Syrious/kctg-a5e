@@ -1,5 +1,0 @@
-2025/08/04-17:39:35.458 428c Delete type=3 #1
-2025/08/04-17:40:04.597 10ac Level-0 table #5: started
-2025/08/04-17:40:04.690 10ac Level-0 table #5: 771046 bytes OK
-2025/08/04-17:40:04.738 10ac Delete type=0 #3
-2025/08/04-17:40:04.738 10ac Manual compaction at level-0 from '!folders!9z8F4GiWlXBk1DYI' @ 72057594037927935 : 1 .. '!items!zz7Z50tHQqf9Z2jD' @ 0 : 0; will stop at (end)

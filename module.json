@@ -1,7 +1,7 @@
 {
   "id": "kctg-a5e",
   "title": "Kris's Compendium of Trade Goods - A5e edition",
-  "version": "1.18.0",
+  "version": "1.19.0",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -46,7 +46,7 @@
         "id": "kctg-5e",
         "type": "module",
         "compatibility": {
-          "minimum": "1.18.0"
+          "minimum": "1.19.0"
         }
       }
     ]
