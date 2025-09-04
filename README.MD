@@ -5,6 +5,9 @@
 
 [Discord](https://discord.gg/VMqndcyUGS)
 
+# CODE-ONLY REPO
+This repository is only meant to host the code. All new releases can be found [on my hub](https://hub.adventurer-backpack.com)
+
 # Kris's Compendium of Trade Goods - A5e Edition
 With permission from the original author, I made this simple port for [Kris's Compendium of Trade Goods](https://github.com/kristkos/KCTG-5e) to work with [Level Up: Advanced 5th Edition](https://foundryvtt.com/packages/a5e)
 
