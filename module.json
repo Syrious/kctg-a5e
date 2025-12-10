@@ -1,7 +1,7 @@
 {
   "id": "kctg-a5e",
   "title": "Kris's Compendium of Trade Goods - A5e edition",
-  "version": "1.21.0",
+  "version": "1.22.2",
   "compatibility": {
     "minimum": "11",
     "verified": "12.343"
@@ -28,7 +28,7 @@
   "packs": [
     {
       "name": "kctg-a5e",
-      "label": "A5e - KCTG",
+      "label": "A5e - KCTG - Trade Goods",
       "path": "packs/kctg-a5e",
       "type": "Item",
       "system": "a5e",
@@ -36,7 +36,20 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "banner": "modules/kctg-5e/banner/Banner.webp",
+      "banner": "modules/kctg-5e/banner/banner-tradegoods.webp",
+      "flags": {}
+    },
+	{
+      "name": "kctg-a5e-armaments",
+      "label": "A5e - KCTG - Armaments",
+      "path": "packs/kctg-a5e-armaments",
+      "type": "Item",
+      "system": "a5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "banner": "modules/kctg-5e/banner/banner-armaments.webp",
       "flags": {}
     }
   ],

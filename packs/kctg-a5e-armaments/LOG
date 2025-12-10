@@ -1,0 +1,8 @@
+2025/12/10-14:43:20.346 3cec Recovering log #16
+2025/12/10-14:43:20.348 3cec Delete type=0 #16
+2025/12/10-14:43:20.348 3cec Delete type=3 #14
+2025/12/10-14:44:18.576 38e8 Level-0 table #21: started
+2025/12/10-14:44:18.576 38e8 Level-0 table #21: 0 bytes OK
+2025/12/10-14:44:18.577 38e8 Delete type=0 #19
+2025/12/10-14:44:18.578 38e8 Manual compaction at level-0 from '!folders!QZPnXbHpm2yPfeUn' @ 72057594037927935 : 1 .. '!items!zjkYH9EI0FwHd1nV' @ 0 : 0; will stop at (end)
+2025/12/10-14:44:18.578 38e8 Manual compaction at level-1 from '!folders!QZPnXbHpm2yPfeUn' @ 72057594037927935 : 1 .. '!items!zjkYH9EI0FwHd1nV' @ 0 : 0; will stop at (end)
