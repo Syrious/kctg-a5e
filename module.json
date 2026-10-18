@@ -1,7 +1,7 @@
 {
   "id": "kctg-a5e",
   "title": "Kris's Compendium of Trade Goods - A5e edition",
-  "version": "1.32.1",
+  "version": "1.32.2",
   "compatibility": {
     "minimum": "14",
     "verified": "14.369"
@@ -85,7 +85,6 @@
   "styles": [
   ],
   "bugs": "https://discord.gg/VMqndcyUGS",
-  "url": "https://hub.adventurer-backpack.com/module/kctg-a5e",
-  "manifest": "https://hub.adventurer-backpack.com/api/download/manifest/kctg-a5e/latest",
-  "download": "https://hub.adventurer-backpack.com/api/download/module/kctg-a5e/1.30.0"
-}
+  "url": "${module-url}",
+  "manifest": "${module-endpoint}",
+  "download": "${download-endpoint}"}
