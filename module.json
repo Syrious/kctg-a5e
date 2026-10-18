@@ -59,7 +59,7 @@
         "id": "kctg-5e",
         "type": "module",
         "compatibility": {
-          "minimum": "1.29.0"
+          "minimum": "1.32.0"
         }
       }
     ]
@@ -71,13 +71,11 @@
       "thumbnail": "modules/kctg-5e/banner/Thumb.webp"
     }],
   "esmodules": [
-    "kctg-a5e.js"
   ],
   "styles": [
-    "styles/main.css"
   ],
   "bugs": "https://discord.gg/VMqndcyUGS",
-  "url": "${module-url}",
-  "manifest": "${module-endpoint}",
-  "download": "${download-endpoint}"
+  "url": "https://hub.adventurer-backpack.com/module/kctg-a5e",
+  "manifest": "https://hub.adventurer-backpack.com/api/download/manifest/kctg-a5e/latest",
+  "download": "https://hub.adventurer-backpack.com/api/download/module/kctg-a5e/1.30.0"
 }
